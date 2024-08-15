@@ -1,0 +1,13 @@
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\bin\Debug\net8.0\WebApplication1.Utility.deps.json
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\bin\Debug\net8.0\WebApplication1.Utility.dll
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\bin\Debug\net8.0\WebApplication1.Utility.pdb
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.AssemblyInfoInputs.cache
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.AssemblyInfo.cs
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.dll
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\refint\WebApplication1.Utility.dll
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.pdb
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\ref\WebApplication1.Utility.dll
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.csproj.AssemblyReference.cache
+C:\Users\ekmek\source\repos\WebApplication1\WebApplication1.Utility\obj\Debug\net8.0\WebApplication1.Utility.sourcelink.json
